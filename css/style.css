@@ -1,0 +1,25 @@
+.container {
+	width: 850px;
+}
+blockquote {
+	background: #fcf8f2;
+	border-color: #f0ad4e;
+	font-size: 15px;
+}
+footer {
+	background: #eee;
+	padding: 15px 0;
+}
+.row div {
+	margin-bottom: 20px;
+}
+.jumbotron {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.btn-success {
+	font-weight: bold;
+	border-bottom: 4px solid #20a157;
+	text-shadow: 0 1px 0 #20a157;
+	border-top: 0;
+}
